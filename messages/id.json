@@ -1,0 +1,343 @@
+{
+  "Homepage": {
+    "hero_section": {
+      "h1": "Mitra Anda dalam Menyediakan Nutrisi Cerdas dan Berkelanjutan untuk Hewan Peliharaan yang Lebih Bahagia dan Lebih Sehat",
+      "p": "Sebagai distributor terpercaya, Protema berkomitmen untuk menyediakan produk makanan dan suplemen hewan berkualitas tinggi, dengan layanan yang cepat, aman dan andal untuk memenuhi kebutuhan pelanggan di seluruh Indonesia.",
+      "button": "Jelajahi"
+    },
+    "mission_section": {
+      "title": "MISI KAMI",
+      "h2": "Merawat Hewan Peliharaan Anda agar Sehat dan Bahagia",
+      "p1": "Protema berdedikasi untuk menyediakan makanan hewan peliharaan yang berkualitas tinggi dan berkelanjutan yang memenuhi kebutuhan nutrisi hewan. Kami memprioritaskan kontrol kualitas yang ketat, pengiriman tepat waktu, dan kepuasan pelanggan. Melalui jaringan reseller, distributor, dan pemilik pet shop yang terus berkembang di seluruh Indonesia, kami bertujuan untuk memperluas akses ke produk kami sambil meningkatkan kesadaran akan manfaat nutrisi hewan peliharaan berbasis protein yang berkelanjutan."
+    },
+    "product_section": {
+      "title": "KATEGORI PRODUK",
+      "h2": "Pilihan Terbaik untuk Hewan Peliharaan Anda",
+      "cat": {
+        "title": "Kesehatan Kucing",
+        "paragraph": "Jelajahi rangkaian produk kesehatan kami yang dirancang khusus untuk teman kucing Anda."
+      },
+      "dog": {
+        "title": "Kesehatan Anjing",
+        "paragraph": "Berbagai produk kesehatan yang dirancang untuk menjaga anjing Anda tetap aktif, bahagia, dan sehat."
+      },
+      "other": {
+        "title": "Produk Lainnya",
+        "paragraph": "Berbagai produk yang dirancang untuk meningkatkan kualitas hidup hewan peliharaan Anda secara keseluruhan."
+      }
+    },
+    "award_section": {
+      "title": "PRESTASI & LISENSI",
+      "licenses": [
+        {
+          "title": "Rekam Jejak & Pengakuan Kinerja Protema",
+          "contents": [
+            "Top #1 Produk Terlaris Kategori Produk Vitamin Kucing di TikTok Shop",
+            "Top #3 Produk Terlaris Kategori Perlengkapan Hewan Peliharaan di Tiktok Shop",
+            "Top #5 Produk Terlaris Kategori Kesehatan dan Perawatan Hewan Peliharaan di Shopee"
+          ]
+        },
+        {
+          "title": "Sertifikasi Yang Kami Miliki",
+          "description": "Jajaran Produk Protema diproduksi dengan hati-hati oleh kolaborator kami, PT Biofeed Teknologi Industri yang telah memperoleh beberapa sertifikasi dan lisensi kunci untuk memperkuat statusnya dan melakukan ekspansi ke pasar ekspor",
+          "contents": [
+            "HACCP (Hazard Analysis Critical Control Point)",
+            "ISO 9001 (Quality Management System)",
+            "ISO 22000 (Food Safety Management System)",
+            "NKV (Veterinary Control Number)"
+          ]
+        }
+      ]
+    },
+    "product_list_section": {
+      "title": "PRODUK KAMI",
+      "h2": "Produk Terlaris Protema",
+      "button1": "Beli Sekarang",
+      "button2": "Pelajari Lebih Lanjut",
+      "contents": [
+        {
+          "name": "Magprofeed Protein Powder untuk Kucing",
+          "description": "Protein organik kualitas tertinggi, diformulasikan sebagai makanan tambahan untuk menstimulasi nafsu makan dan mendorong penambahan berat badan yang sehat pada kucing."
+        },
+        {
+          "name": "All in One Multivitamin untuk Kucing",
+          "description": "10 manfaat dalam satu toples—mendukung kesehatan pencernaan, saluran kemih, jantung, penglihatan, sistem kekebalan, kulit, bulu, asupan antioksidan, peningkatan nafsu makan, dan mengurangi bau mulut."
+        },
+        {
+          "name": "Premium Milk",
+          "description": "Susu rendah laktosa yang cocok untuk anak kucing dan anak anjing, serta kucing dan anjing dewasa. Ideal untuk pertumbuhan, perkembangan, dan pemulihan selama sakit."
+        }
+      ]
+    },
+    "product_availability_section": {
+      "title": "KETERSEDIAAN PRODUK",
+      "h2": "Temukan Protema di Marketplace Favoritmu"
+    },
+    "testimony_section": {
+      "title": "TESTIMONI PELANGGAN",
+      "h2": "Apa Kata Pelanggan Kami Tentang Protema"
+    },
+    "article_section": {
+      "title": "BLOG KAMI",
+      "h2": "Artikel dan Tips Terbaru untuk Hewan Peliharaan Anda",
+      "button": "Baca Selengkapnya",
+      "contents1": [
+        "Menjaga Kesehatan Hewan Peliharaan dengan Nutrisi yang Tepat",
+        "Temukan Solusi Terbaru untuk Kesehatan Hewan Peliharaan Anda",
+        "Pentingnya Menjaga Kesehatan Pencernaan Hewan Peliharaan Anda"
+      ],
+      "contents2": ["Discovery", "Insight", "Insight"]
+    }
+  },
+
+  "AboutPage": {
+    "hero_section": {
+      "title": "PROTEMA",
+      "h2": "Makanan Hewan yang Lebih Baik, Dampak yang Lebih Besar"
+    },
+    "about_section": {
+      "title": "PROTEMA",
+      "h2": "Solusi Terbaik untuk Nutrisi Sehat dan Perawatan Optimal Hewan Peliharaan",
+      "h3": "“Peduli dengan Nutrisi, Mencintai dengan Hati”",
+      "p1": "Didirikan pada tahun 2021, PT Proteinmagg Maggpro Industri, yang dikenal sebagai Protema, adalah perusahaan yang mengkhususkan diri dalam distribusi makanan dan suplemen hewan peliharaan untuk kucing, anjing, burung kicau, ikan koi, arowana, dan ayam hias. Awalnya, Protema fokus pada penjualan online dan pemasaran digital. Sebelum dikenal sebagai Protema, kami juga dikenal sebagai merek Maggpro Indonesia.",
+      "p2": "Pada tahun 2025, Protema berkomitmen untuk memperluas distribusinya ke jaringan offline, menjangkau lebih banyak reseller, distributor, dan pemilik pet shop di seluruh Indonesia. Strategi ini memastikan produk hewan peliharaan berkualitas tinggi menjadi lebih mudah diakses oleh pecinta hewan peliharaan di seluruh negeri."
+    },
+    "mission_section": {
+      "title1": "VISI",
+      "title2": "MISI",
+      "p": "Protema bertujuan menjadi perusahaan distribusi makanan hewan peliharaan terkemuka, menawarkan produk berkualitas tinggi dan berkelanjutan sambil memperluas jaringan distribusinya di seluruh Indonesia.",
+      "list": [
+        "Mendistribusikan produk berkualitas tinggi dan berkelanjutan yang memenuhi kebutuhan nutrisi hewan peliharaan.",
+        "Memprioritaskan kontrol kualitas, pengiriman tepat waktu, dan kepuasan pelanggan.",
+        "Memperluas saluran distribusi melalui reseller, distributor, dan pemilik pet shop di seluruh Indonesia.",
+        "Mempromosikan edukasi dan kesadaran tentang manfaat makanan hewan peliharaan berbasis protein berkelanjutan kepada pelanggan dan mitra bisnis."
+      ]
+    },
+    "timeline_section": {
+      "title": "LINI MASA SEJARAH",
+      "h2": "Perjalanan Panjang & Prestasi Protema",
+      "timelines": [
+        {
+          "image": "/historical-1.png",
+          "year": 2018,
+          "description": "Protema didirikan sebagai distributor makanan dan suplemen hewan peliharaan"
+        },
+        {
+          "image": "/historical-2.png",
+          "year": 2020,
+          "description": "Menambahkan lini produk premium dan memperluas jangkauan distribusi ke seluruh Indonesia"
+        },
+        {
+          "image": "/historical-3.png",
+          "year": 2021,
+          "description": "Mulai fokus pada pemasaran online dan ekspansi ke marketplace"
+        },
+        {
+          "image": "/historical-4.png",
+          "year": 2022,
+          "description": "Bermitra dengan reseller, distributor, dan marketplace terkenal."
+        }
+      ]
+    },
+    "award_section": {
+      "title": "PRESTASI & LISENSI",
+      "licenses": [
+        {
+          "title": "Rekam Jejak & Pengakuan Kinerja Protema",
+          "contents": [
+            "Distributor Perlengkapan Hewan Peliharaan Terbaik 2024",
+            "Pemasaran Digital Terbaik di Industri Hewan Peliharaan 2023",
+            "Pemasok Nutrisi Hewan Peliharaan Terpercaya 2022",
+            "Mitra Toko Hewan Peliharaan Online Terbaik 2021"
+          ]
+        },
+        {
+          "title": "Legalitas & Izin Resmi yang Kami Miliki",
+          "contents": [
+            "Distributor Perlengkapan Hewan Peliharaan Terbaik 2024",
+            "Pemasaran Digital Terbaik di Industri Hewan Peliharaan 2023",
+            "Mitra Toko Hewan Peliharaan Online Terbaik 2021"
+          ]
+        }
+      ]
+    }
+  },
+  "PartnershipPage": {
+    "hero_section": {
+      "h2": "KEMITRAAN",
+      "title": "Bergabung dengan Protema, hasilkan uang melalui produk berkualitas!",
+      "detail": "Jadilah bagian dari perjalanan Protema dalam menghadirkan produk hewan peliharaan berkualitas tinggi dan berkelanjutan. Dengan nutrisi terbaik dan inovasi berkelanjutan, kami berkomitmen untuk memberikan yang terbaik bagi kesehatan dan kesejahteraan hewan peliharaan kesayangan Anda."
+    },
+    "reseller_section": {
+      "title": "RESELLER & DISTRIBUTOR",
+      "h2": "Jadilah Bagian dari Misi Protema untuk Meningkatkan Kesehatan Hewan Peliharaan di Seluruh Indonesia",
+      "p": "Bergabunglah dalam perjalanan kami untuk menghadirkan produk hewan peliharaan premium dan berkelanjutan yang dirancang untuk mendukung kesehatan dan kebahagiaan hewan peliharaan tercinta. Didukung oleh nutrisi mutakhir dan inovasi berkelanjutan, Protema berkomitmen untuk memberikan hanya yang terbaik kepada pelanggan Anda. Nikmati diskon eksklusif 15% untuk Produk Terlaris kami — tambahan sempurna untuk meningkatkan pilihan produk di toko Anda.",
+      "button": "Bergabung Sekarang"
+    },
+    "reseller_benefit_section": {
+      "h2": "Keuntungan Menjadi Reseller & Distributor Protema",
+      "benefits": [
+        {
+          "title": "Produk Berkualitas",
+          "description": "Menjual makanan dan suplemen hewan dengan standar tinggi."
+        },
+        {
+          "title": "Harga Khusus",
+          "description": "Dapatkan harga grosir eksklusif untuk reseller & distributor."
+        },
+        {
+          "title": "Dukungan Pemasaran",
+          "description": "Materi promosi dan strategi digital untuk meningkatkan penjualan."
+        }
+      ]
+    },
+    "affiliate_section": {
+      "title": "AFFILIATOR",
+      "h2": "Jadilah Afiliasi Protema dan Dapatkan Keuntungan! - Dapatkan Komisi Hingga 10%! ",
+      "p": "Suka hewan peliharaan dan ingin mendapatkan penghasilan tambahan? Bergabunglah dengan program afiliasi kami dan dapatkan komisi hingga 10% untuk setiap penjualan yang Anda rekomendasikan. Promosikan makanan hewan peliharaan kami yang berkualitas tinggi dan berkelanjutan, serta bantu hewan peliharaan hidup lebih sehat di seluruh Indonesia.",
+      "button": "Bergabung Sekarang"
+    },
+    "affiliate_benefit_section": {
+      "h2": "Keuntungan Menjadi Affiliator Protema",
+      "benefits": [
+        {
+          "title": "Tanpa Modal",
+          "description": "Anda tidak membeli produk. Cukup promosikan, kami yang mengurus pengirimannya!"
+        },
+        {
+          "title": "Komisi Menarik",
+          "description": "Dapatkan komisi dari setiap transaksi yang berasal dari link afiliasi Anda."
+        },
+        {
+          "title": "Bebas Waktu dan Tempat",
+          "description": "Dapat dilakukan kapan saja, di mana saja. Cocok untuk mahasiswa, karyawan, atau pekerja lepas"
+        }
+      ]
+    }
+  },
+  "ProductListPage": {
+    "hero_section": {
+      "h2": "PRODUK KAMI",
+      "title": "Nutrisi Berkelanjutan, Dikirim dengan Kepedulian untuk Setiap Hewan Peliharaan di Indonesia"
+    },
+    "all_products": [
+      "Magprofeed untuk Kucing",
+      "All In One",
+      "Premium Milk",
+      "Vitamin Omega Oil",
+      "Vermi Cure",
+      "Anti Flea Repellent",
+      "Magprofeed untuk Anjing",
+      "ProMicro untuk Anjing",
+      "ALPHA",
+      "ProMicro untuk Kucing",
+      "Luxe Cleanse"
+    ]
+  },
+  "ArticlePage": {
+    "hero_section": {
+      "h2": "ARTIKEL KAMI",
+      "title": "Artikel dan Tips Terbaru untuk Hewan Peliharaan Anda",
+      "button": "Baca Selengkapnya"
+    },
+    "main_article_section": [
+      {
+        "title": "Menjaga Kesehatan Hewan Peliharaan dengan Nutrisi yang Tepat",
+        "category": "Insight",
+        "description": "Memiliki hewan peliharaan adalah tanggung jawab besar yang memerlukan perhatian terhadap kesehatannya. Salah satu faktor utama yang memengaruhi kesehatan hewan peliharaan adalah nutrisi yang tepat. Asupan makanan yang..."
+      },
+      {
+        "title": "Pentingnya Menjaga Kesehatan Pencernaan Hewan Peliharaan Anda",
+        "category": "Insight",
+        "description": "Memiliki hewan peliharaan adalah tanggung jawab besar yang memerlukan perhatian terhadap kesehatannya. Salah satu faktor utama yang memengaruhi kesehatan hewan peliharaan adalah sistem pencernaan yang sehat. Pencernaan..."
+      }
+    ],
+    "sub_article_section": [
+      {
+        "title": "Merawat Gigi Hewan Peliharaan: Kenapa Ini Sangat Penting?",
+        "category": "Insight"
+      },
+      {
+        "title": "Tren Aksesoris Hewan Peliharaan 2025 : Dari Fashion hingga Teknologi",
+        "category": "Discovery"
+      },
+      {
+        "title": "Pentingnya Vaksinasi dan Perawatan Kesehatan untuk Hewan Peliharaan",
+        "category": "Insight"
+      },
+      {
+        "title": "Mengenal Jenis-Jenis Makanan Organik untuk Hewan Peliharaan",
+        "category": "Discovery"
+      },
+      {
+        "title": "Cara Mencegah Obesitas pada Hewan Peliharaan: Pola Makan yang Tepat",
+        "category": "Insight"
+      }
+    ]
+  },
+  "Testimony": [
+    {
+      "name": "Agatha Pricilla",
+      "role": "Influencer & Musisi",
+      "review": "Pertama-tama, harus saya katakan produk ini luar biasa! Bulu Zizu (anjing saya) menjadi lebih tebal dan lebih sehat, berkat Magprofeed Protein Powder dan Omega Oil"
+    },
+    {
+      "name": "Kevin Aprilio",
+      "role": "Musisi & Tokoh Publik",
+      "review": "Aku punya Alaskan Malamute namanya Yuna, doyannya pakai Alpha, dia itu 1 toples lengkap banget manfaatnya, buat nambah nafsu makan sama bikin bulunya makin bagus. ada Fiber juga jadi pup nya juga solid ga bau, ada Calcium juga jadi tulang & giginya bagus. udah kupakai 1tahun, recommended buat pawrents"
+    },
+    {
+      "name": "Canti Tachril",
+      "role": "Influencer & Musisi",
+      "review": "Cocok sempurna dengan makanan utama mereka dan meningkatkan nafsu makan mereka. Mereka menyukainya!"
+    },
+    {
+      "name": "Nabadita Octovy",
+      "role": "Peternak Corgi",
+      "review": "Chewie (anjing saya) makan dengan sangat lahap seperti yang belum pernah saya lihat sebelumnya, dan tidak ada lagi kerontokan bulu. Produk ini luar biasa"
+    },
+    {
+      "name": "Daddyanabul",
+      "role": "Petfluencer British Shorthair",
+      "review": "Saya tidak pernah menyangka bahwa kucing saya (Alphard) memenangkan kontes kucing bulan lalu di Bali, dengan pengaturan makanan biasa + Premium Milk dari Protema. Bukan hanya berat badannya yang meningkat, tapi dia juga sangat ceria & sehat!"
+    }
+  ],
+  "Navbar": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Produk",
+      "url": "/product"
+    },
+    {
+      "name": "Kemitraan",
+      "url": "/partnership"
+    },
+    {
+      "name": "Tentang Kami",
+      "url": "/about-us"
+    },
+    {
+      "name": "Artikel",
+      "url": "/articles"
+    }
+  ],
+  "Footer": {
+    "description": "Protema adalah perusahaan yang mengkhususkan diri dalam distribusi makanan hewan dan suplemen untuk kucing, anjing, burung kicau, ikan koi, arwana, dan ayam hias.",
+    "product": {
+      "type": "Kategori Produk",
+      "cat": "Kesehatan Kucing",
+      "dog": "Kesehatan Anjing",
+      "other": "Produk Lainnya"
+    },
+    "company": {
+      "type": "Perusahaan",
+      "about": "Tentang Kami",
+      "partnership": "Kemitraan",
+      "article": "Artikel"
+    },
+    "contact": "Kontak Kami"
+  }
+}

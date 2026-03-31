@@ -1,0 +1,406 @@
+{
+  "Homepage": {
+    "hero_section": {
+      "h1": "Your Partner in Providing Smart, Sustainable Nutrition for Happier, Healthier Pets",
+      "p": "As a trusted distributor, Protema is committed to providing high-quality animal food and supplement products, with fast, safe and reliable service to meet the needs of customers throughout Indonesia.",
+      "button": "Discover"
+    },
+    "mission_section": {
+      "title": "OUR MISSION",
+      "h2": "Taking Good Care of Your Pets to Be Healthy and Happy",
+      "p1": "Protema is dedicated to providing high-quality, sustainable pet food that meets animals’ nutritional needs. We prioritize strict quality control, on-time delivery, and customer satisfaction. Through a growing network of resellers, distributors, and pet shop owners across Indonesia, we aim to expand access to our products while promoting awareness of the benefits of sustainable, protein-based pet nutrition."
+    },
+    "product_section": {
+      "title": "PRODUCT CATEGORY",
+      "h2": "The Best Choice for Your Pet",
+      "cat": {
+        "title": "Cat Health",
+        "paragraph": "Explore our range of health products tailored specifically for your feline friends."
+      },
+      "dog": {
+        "title": "Dog Health",
+        "paragraph": "Wide range of health products designed to keep your dog active, happy, and healthy."
+      },
+      "other": {
+        "title": "Other Product",
+        "paragraph": "Variety of products designed to improve your pet’s overall quality of life."
+      }
+    },
+    "award_section": {
+      "title": "ACHIEVEMENTS & LICENSES",
+      "licenses": [
+        {
+          "title": "Protema Performance Track & Recognition",
+          "contents": [
+            "Top #1 Best Seller Category Cat Vitamin Products on TikTok Shop",
+            "Top #3 Best Seller Category Pet Supplies on Tiktok Shop",
+            "Top #5 Best Seller Category Pets Health and Care on Shopee"
+          ]
+        },
+        {
+          "title": "Certification That We Have",
+          "description": "Protema Product Lineup are carefully manufactured by our collaborator, PT Biofeed Teknkologi Industri whom obtained several key certifications and licenses to solidify its status and expand into export markets",
+          "contents": [
+            "HACCP (Hazard Analysis Critical Control Point)",
+            "ISO 9001 (Quality Management System)",
+            "ISO 22000 (Food Safety Management System)",
+            "NKV (Veterinary Control Number)"
+          ]
+        }
+      ]
+    },
+    "product_list_section": {
+      "title": "OUR PRODUCT",
+      "h2": "Protema Best Selling Products",
+      "button1": "Buy Now",
+      "button2": "Learn More",
+      "contents": [
+        {
+          "name": "Magprofeed Protein Powder for Cats",
+          "description": "Organic protein of the highest quality, formulated as an extra fooding to stimulate appetite and promote healthy weight gain in cats."
+        },
+        {
+          "name": "All in One Multivitamin for Cats",
+          "description": "10 benefits in one jar—supports digestive health, urinary tract, heart, vision, immune system, skin, coat, antioxidant intake, appetite boost, and reduces bad breath."
+        },
+        {
+          "name": "Premium Milk",
+          "description": "Low-lactose milk suitable for kittens and puppies, as well as adult cats and dogs. Ideal for growth, development, and recovery during illness."
+        }
+      ]
+    },
+    "product_availability_section": {
+      "title": "PRODUCT AVAILABILITY",
+      "h2": "Find Protema On The Marketplace"
+    },
+    "testimony_section": {
+      "title": "CUSTOMERS TESTIMONIALS",
+      "h2": "What Our Customers Say About Protema"
+    },
+    "article_section": {
+      "title": "OUR BLOG",
+      "h2": "Latest Articles and Tips for Your Pet",
+      "button": "Read More",
+      "contents1": [
+        "Maintaining Pet Health with Proper Nutrition",
+        "Find the Latest Solutions for Your Pet's Health",
+        "The Importance of Maintaining Your Pet's Digestive Health"
+      ],
+      "contents2": ["Discovery", "Insight", "Insight"]
+    }
+  },
+  "id": {
+    "hero_section": {
+      "h1": "The Best Nutritional Solution for Your Pet",
+      "p": "As a trusted distributor, Protema is committed to providing high-quality animal food and supplement products, with fast, safe and reliable service to meet the needs of customers throughout Indonesia.",
+      "button": "Discover"
+    },
+    "mission_section": {
+      "title": "OUR MISSION",
+      "h2": "Taking Good Care of Your Pets to Be Healthy and Happy",
+      "p1": "At Protema, we are committed to providing high-quality food and supplement products designed to support your pet's health and well-being. We believe that every pet deserves the best nutrition for a long, healthy life. Through innovation in digital and online distribution, we bring superior products directly to your hands, quickly and easily.",
+      "p2": "We not only focus on quality products, but also provide an easy and safe shopping experience. Through our digital platform, customers can quickly access information, place orders, and receive timely deliveries. We also strive to educate the public about proper pet care."
+    },
+    "product_section": {
+      "title": "PRODUCT CATEGORY",
+      "h2": "The Best Choice for Your Pet",
+      "cat": {
+        "title": "Cat Health",
+        "paragraph": "Explore our range of health products tailored specifically for your feline friends."
+      },
+      "dog": {
+        "title": "Dog Health",
+        "paragraph": "Wide range of health products designed to keep your dog active, happy, and healthy."
+      },
+
+      "other": {
+        "title": "Other Product",
+        "paragraph": "Variety of products designed to improve your pet’s overall quality of life."
+      }
+    },
+    "award_section": {
+      "title": "ACHIEVEMENTS & LICENSES",
+      "licenses": [
+        {
+          "title": "Protema Performance Track & Recognition",
+          "contents": [
+            "Best Pet Supply Distributor 2024",
+            "Top Digital Marketing in Pet Industry 2023",
+            "Trusted Pet Nutrition Supplier 2022",
+            "Best Online Pet Store Partner 2021"
+          ]
+        },
+        {
+          "title": "Legality & Official Permits We Have",
+          "contents": [
+            "Best Pet Supply Distributor 2024",
+            "Top Digital Marketing in Pet Industry 2023",
+            "Best Online Pet Store Partner 2021"
+          ]
+        }
+      ]
+    },
+    "product_list_section": {
+      "title": "PRODUCT AVAILABILITY",
+      "h2": "Find Protema On The Marketplace"
+    },
+    "testimony_section": {
+      "title": "CUSTOMERS TESTIMONIALS",
+      "h2": "What Our Customers Say About Protema"
+    }
+  },
+  "AboutPage": {
+    "hero_section": {
+      "title": "PROTEMA",
+      "h2": "Better Pet Food, Bigger Impact"
+    },
+    "about_section": {
+      "title": "PROTEMA",
+      "h2": "The Best Solution for Healthy Nutrition and Optimal Care of Pets",
+      "h3": "“Caring with Nutrition, Loving with Heart”",
+      "p1": "Founded in 2021, PT Proteinmagg Maggpro Industri, known as Protema, is a company specializing in the distribution of pet food and supplements for cats, dogs, songbirds, koi fish, arowana, and ornamental chickens. Initially, Protema focused on online sales and digital marketing. Before being known as Protema, we were also recognized as the brand Maggpro Indonesia.",
+      "p2": "By 2025, Protema is committed to expanding its distribution to offline networks, reaching more resellers, distributors, and pet shop owners across Indonesia. This strategy ensures that high-quality pet products become more accessible to pet lovers nationwide."
+    },
+    "mission_section": {
+      "title1": "VISION",
+      "title2": "MISSION",
+      "p": "Protema aims to be the leading pet food distribution company, offering high-quality and sustainable products while expanding its distribution network across Indonesia.",
+      "list": [
+        "Distribute high-quality and sustainable products that meet pet nutritional needs.",
+        "Prioritize quality control, timely delivery, and customer satisfaction.",
+        "Expand distribution channels through resellers, distributors, and pet shop owners across Indonesia.",
+        "Promote education and awareness about the benefits of sustainable protein-based pet food to customers and business partners."
+      ]
+    },
+    "timeline_section": {
+      "title": "HISTORICAL TIMELINE",
+      "h2": "Long Journey & Protema Achievements",
+      "timelines": [
+        {
+          "image": "/historical-1.png",
+          "year": 2018,
+          "description": "Protema was founded as a distributor of pet food and supplements"
+        },
+        {
+          "image": "/historical-2.png",
+          "year": 2020,
+          "description": "Adding premium product lines and expanding distribution reach throughout Indonesia"
+        },
+        {
+          "image": "/historical-3.png",
+          "year": 2021,
+          "description": "Start focusing on online marketing and expansion into marketplaces"
+        },
+        {
+          "image": "/historical-4.png",
+          "year": 2022,
+          "description": "Partner with well-known resellers, distributors, and marketplaces."
+        }
+      ]
+    },
+    "award_section": {
+      "title": "ACHIEVEMENTS & LICENSES",
+      "licenses": [
+        {
+          "title": "Protema Performance Track & Recognition",
+          "contents": [
+            "Top #1 Best Seller Category Cat Vitamin Products on TikTok Shop",
+            "Top #3 Best Seller Category Pet Supplies on Tiktok Shop",
+            "Top #5 Best Seller Category Pets Health and Care on Shopee"
+          ]
+        },
+        {
+          "title": "Legality & Official Permits We Have",
+          "contents": [
+            "Best Pet Supply Distributor 2024",
+            "Top Digital Marketing in Pet Industry 2023",
+            "Best Online Pet Store Partner 2021"
+          ]
+        }
+      ]
+    },
+
+    "article_section": {
+      "title": "OUR BLOG",
+      "h2": "Latest Articles and Tips for Your Pet"
+    }
+  },
+  "PartnershipPage": {
+    "hero_section": {
+      "h2": "PARTNERSHIP",
+      "title": "Join Protema, earn money through quality products!",
+      "detail": "Be part of Protema’s journey in delivering high-quality, sustainable pet products. With the best nutrition and continuous innovation, we are committed to providing the best for the health and well-being of your beloved pets."
+    },
+    "reseller_section": {
+      "title": "RESELLER & DISTRIBUTION",
+      "h2": "Be Part of Protema’s Mission to Elevate Pet Wellness Across Indonesia",
+      "p": "Join us on our journey to deliver premium, sustainable pet products designed to support the health and happiness of beloved pets. Backed by cutting-edge nutrition and continuous innovation, Protema is committed to bringing only the best to your customers. Enjoy an exclusive 15% discount on our Best-Selling Items — the perfect addition to elevate your store’s product selection.",
+      "button": "Join Now"
+    },
+    "reseller_benefit_section": {
+      "h2": "Benefits Of Becoming A Protema Reseller & Distributor",
+      "benefits": [
+        {
+          "title": "Quality Products",
+          "description": "Selling animal foods and supplements to high standards."
+        },
+        {
+          "title": "Special Pricing",
+          "description": "Get exclusive wholesale prices for resellers & distributors."
+        },
+        {
+          "title": "Marketing Support",
+          "description": "Promotional materials and digital strategies to increase sales."
+        }
+      ]
+    },
+    "affiliate_section": {
+      "title": "AFFILIATOR",
+      "h2": "Become a Protema Affiliate – Earn Up to 10% Commission! ",
+      "p": "Love pets and want to earn extra income? Join our affiliate program and get up to 10% commission for every sale you refer. Promote our high-quality, sustainable pet food and help pets live healthier lives across Indonesia. Join now and start earning with Protema!",
+      "button": "Join Now"
+    },
+    "affiliate_benefit_section": {
+      "h2": "Benefits Of Becoming A Protema Affiliator",
+      "benefits": [
+        {
+          "title": "Without Capital",
+          "description": "You don't buy the product. Just promote it, we take care of the shipping!"
+        },
+        {
+          "title": "Attractive Commission",
+          "description": "Earn commission from every transaction that comes from your affiliate link."
+        },
+        {
+          "title": "Free Time and Place",
+          "description": "Can be done anytime, anywhere. Suitable for students, employees, or freelancers"
+        }
+      ]
+    }
+  },
+  "ProductListPage": {
+    "hero_section": {
+      "h2": "OUR PRODUCT",
+      "title": "Sustainable Nutrition, Delivered with Care for Every Pet in Indonesia"
+    },
+    "all_products": [
+      "Magprofeed for Cat",
+      "All In One",
+      "Premium Milk",
+      "Omega Oil Vitamin",
+      "Vermi Cure",
+      "Anti Flea Repellent",
+      "Magprofeed for Dog",
+      "ProMicro for Dog",
+      "ALPHA",
+      "ProMicro for Cat",
+      "Luxe Cleanse"
+    ]
+  },
+  "ArticlePage": {
+    "hero_section": {
+      "h2": "OUR ARTICLES",
+      "title": "Latest Articles and Tips for Your Pet",
+      "button": "Read More"
+    },
+    "main_article_section": [
+      {
+        "title": "Maintaining Pet Health with Proper Nutrition",
+        "category": "Insight",
+        "description": "Having a pet is a big responsibility that requires attention to their health. One of the main factors affecting pet health is proper nutrition. Food intake that..."
+      },
+      {
+        "title": "The Importance of Maintaining Your Pet's Digestive Health",
+        "category": "Insight",
+        "description": "Having a pet is a big responsibility that requires attention to their health. One of the main factors affecting pet health is a healthy digestive system. Digestion..."
+      }
+    ],
+    "sub_article_section": [
+      {
+        "title": "Pet Dental Care: Why Is It So Important?",
+        "category": "Insight"
+      },
+      {
+        "title": "Pet Accessory Trends 2025 : From Fashion to Technology",
+        "category": "Discovery"
+      },
+      {
+        "title": "The Importance of Vaccination and Health Care for Pets",
+        "category": "Insight"
+      },
+      {
+        "title": "Getting to Know Types of Organic Pet Food",
+        "category": "Discovery"
+      },
+      {
+        "title": "How to Prevent Obesity in Pets: The Right Diet",
+        "category": "Insight"
+      }
+    ]
+  },
+  "Testimony": [
+    {
+      "name": "Agatha Pricilla",
+      "role": "Influencer & Musician",
+      "review": "First of all, gotta say this product is brilliant! (my dog) Zizu's fur became fluffier and healthier, thanks to the Magprofeed Protein Powder and Omega Oil"
+    },
+    {
+      "name": "Kevin Aprilio",
+      "role": "Musician & Public Figure",
+      "review": "I have an Alaskan Malamute named Yuna, she loves using Alpha, it's 1 jar with complete benefits, to increase appetite and make her fur better. It also contains Fiber so her poop is solid and odorless, and it has Calcium so her bones & teeth are healthy. I've been using it for 1 year, recommended for pawrents"
+    },
+    {
+      "name": "Canti Tachril",
+      "role": "Influencer & Musician",
+      "review": "Matched perfectly with their main food and boosts their appetite. They love it!"
+    },
+    {
+      "name": "Nabadita Octovy",
+      "role": "Corgi Breeder",
+      "review": "Chewie (my dog) eat vigorously like I've never seen before, and no more furr loss. This product is amazing"
+    },
+    {
+      "name": "Daddyanabul",
+      "role": "British Shorthair Petfluencer",
+      "review": "I never thought that my cat (Alphard) won a cat contest last month in Bali, with the usual meal setting + Premium Milk by Protema. Not just his bodyweight that has increased, but he's also very cheerful & healthy!"
+    }
+  ],
+  "Navbar": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Product",
+      "url": "/product"
+    },
+    {
+      "name": "Partnership",
+      "url": "/partnership"
+    },
+    {
+      "name": "About Us",
+      "url": "/about-us"
+    },
+    {
+      "name": "Article",
+      "url": "/articles"
+    }
+  ],
+  "Footer": {
+    "description": "Protema, is a company specializing in the distribution of pet food and supplements for cats, dogs, songbirds, koi fish, arowana, and ornamental chickens.",
+    "product": {
+      "type": "Product Category",
+      "cat": "Cat Health",
+      "dog": "Dog Health",
+      "other": "Other Product"
+    },
+    "company": {
+      "type": "Company",
+      "about": "About Us",
+      "partnership": "Partnership",
+      "article": "Article"
+    },
+    "contact": "Our Contact"
+  }
+}
